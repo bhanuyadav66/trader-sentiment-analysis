@@ -8,8 +8,9 @@ The goal is to identify patterns that can help improve trading strategies and ri
 
 ## 🗂️ Dataset Used
 1. Bitcoin Market Sentiment Dataset (Fear/Greed index)
-2. Hyperliquid Historical Trader Dataset
-
+dataset link: [download](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+3. Hyperliquid Historical Trader Dataset
+dataset link: [download](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
 ---
 
 ## ⚙️ Project Workflow
@@ -105,3 +106,4 @@ Run dashboard locally:
 ## 👤 Author
 A Bhanu Prakash  
 Final Year CSE (AI/ML & Data Science Enthusiast)
+
